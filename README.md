@@ -1,6 +1,6 @@
 # Skyrim's Dogma
 
-One sentence: what it does and what makes it different.
+A Skyrim Special Edition mod that recreates gameplay mechanics inspired by Dragon's Dogma: Dark Arisen.
 
 ![Screenshot or short GIF](docs/screenshot.png)
 
