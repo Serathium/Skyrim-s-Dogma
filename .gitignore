@@ -1,0 +1,25 @@
+# Source whitelist. Downloads, game data, build products and local logs stay out.
+*
+!/.gitignore
+!/README.md
+!/AGENTS.md
+!/DESIGN.md
+!/STATUS.md
+!/CMakeLists.txt
+!/CMakePresets.json
+!/vcpkg.json
+!/LICENSE
+!/LICENSE-EXCEPTIONS.md
+!/THIRD_PARTY.md
+!/src/
+!/src/**/
+!/src/**/*.h
+!/src/**/*.cpp
+!/tests/
+!/tests/*.cpp
+!/scripts/
+!/scripts/*.ps1
+!/config/
+!/config/*.ini
+!/docs/
+!/docs/*.md
